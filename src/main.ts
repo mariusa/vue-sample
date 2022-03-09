@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import VueSidebarMenu from 'vue-sidebar-menu' // https://github.com/yaminncco/vue-sidebar-menu
 import "./style.scss"
-import "vue-sidebar-menu/src/scss/vue-sidebar-menu.scss" 
+
 import App from './App.vue'
 
 const routes = [
